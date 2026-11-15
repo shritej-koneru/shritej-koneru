@@ -1,160 +1,151 @@
 <div align="center">
 
-# Hi, I'm Shritej Koneru 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=200&section=header&text=Shritej%20Koneru&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Mobile%20App%20Enthusiast&descAlignY=59&descSize=17" alt="Shritej Koneru — developer profile" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=3975B7&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;AI+%26+Mobile+App+Enthusiast;Building+practical+software;Always+learning%2C+always+building)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Hey+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;I+build+web+apps%2C+AI+tools+%26+Android+apps;Turning+ideas+into+working+products+%E2%9C%A8;Code.+Create.+Learn.+Repeat." alt="Animated developer introduction" /></a>
 
-**B.Tech Computer Science · Full-Stack Development · AI & Mobile Apps**
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://bit.ly/shritej-koneru)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shritej-koneru-560111324)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/shritej-koneru)
+<a href="https://bit.ly/shritej-koneru"><img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/shritej-koneru-560111324"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/shritej-koneru"><img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
 ---
 
-### About me
+### ✨ A little about me
 
-- 🎓 **B.Tech in Computer Science (2024–2028)** at Siddhartha Academy of Higher Education, Vijayawada
-- 💻 Building **full-stack web applications, AI-powered tools, and Android apps**
-- 🔭 Working with **TypeScript, React, Node.js, Python, and Kotlin**
-- 🌱 Exploring **cloud technologies, system design, and practical AI integrations**
-- 🤝 Interested in collaborating on meaningful developer projects
-- 🎮 Outside of code: **anime and gaming**
+```typescript
+const shritej = {
+  education: "B.Tech Computer Science • 2024–2028",
+  location: "Vijayawada, India",
+  building: ["Full-stack apps", "AI tools", "Android apps"],
+  exploring: ["Cloud", "System design", "DevOps"],
+  languages: ["TypeScript", "Python", "Java", "Kotlin"],
+  beyondCode: ["Anime", "Gaming", "Design"],
+  motto: "Build something useful. Then make it better."
+};
+```
 
-### Tech stack
+🎓 Studying **Computer Science** at **Siddhartha Academy of Higher Education** · 💡 I enjoy turning ambitious ideas into practical software.
+
+### 🧰 My developer toolkit
+
+<div align="center">
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,kotlin,c&theme=dark" alt="Java, Python, TypeScript, JavaScript, Kotlin and C" />
 
-**Frontend & mobile**
+**Frontend & creative development**
 
-![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,threejs&theme=dark" alt="React, Next.js, HTML, CSS, Tailwind CSS and Three.js" />
 
-**Backend, data & tools**
+**Backend, mobile & data**
 
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,sqlite,androidstudio,docker&theme=dark" alt="Node.js, FastAPI, SQLite, Android Studio and Docker" />
 
-### Experience & leadership
+**Cloud & workflow**
 
-| Role | Organization | Period |
-| --- | --- | --- |
-| Web Designer | AWS Student Builder Group, Siddhartha University | Jun 2026 – Present |
-| Campus Innovator | SPARC Foundation | Jan 2026 – Present |
-| Ideate Station Executive | TechnoVate-SAHE | Sep 2025 – Present |
+<img src="https://skillicons.dev/icons?i=gcp,git,github,linux,postman,figma,vscode&theme=dark" alt="Google Cloud, Git, GitHub, Linux, Postman, Figma and VS Code" />
 
-<details>
-<summary>More about my experience</summary>
+</div>
 
-- **AWS Student Builder Group:** Designing responsive web experiences and collaborating on cloud-focused community content.
-- **SPARC Foundation:** Contributing to student-focused technical initiatives and cross-team innovation.
-- **TechnoVate-SAHE:** Refining ideas into actionable proposals and supporting campus innovation activities.
+### 🚀 Featured builds
 
-</details>
+<div align="center">
 
-### Featured projects
+<a href="https://github.com/shritej-koneru/EquiAlert"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shritej-koneru&repo=EquiAlert&theme=tokyonight&hide_border=true" alt="EquiAlert project card" /></a>
+<a href="https://github.com/shritej-koneru/FloatChatSAHE"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shritej-koneru&repo=FloatChatSAHE&theme=tokyonight&hide_border=true" alt="FloatChatSAHE project card" /></a>
+<a href="https://github.com/shritej-koneru/Stocks-API"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shritej-koneru&repo=Stocks-API&theme=tokyonight&hide_border=true" alt="Stocks API project card" /></a>
+<a href="https://github.com/shritej-koneru/Multi-File-Conversion"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shritej-koneru&repo=Multi-File-Conversion&theme=tokyonight&hide_border=true" alt="Multi File Conversion project card" /></a>
+<a href="https://github.com/shritej-koneru/ProjectNOVA"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shritej-koneru&repo=ProjectNOVA&theme=tokyonight&hide_border=true" alt="ProjectNOVA project card" /></a>
 
-<details open>
-<summary><b>EquiAlert</b> · Stock market intelligence platform</summary>
-
-Full-stack web app for Indian stocks with live tracking, market news, watchlists, and an AI insights chatbot.
-
-**Tech:** TypeScript · React · Node.js · Python  
-[View repository](https://github.com/shritej-koneru/EquiAlert)
-
-</details>
+</div>
 
 <details>
-<summary><b>FloatChatSAHE</b> · AI oceanographic data assistant</summary>
+<summary><b>🔍 Explore what these projects do</b></summary>
 
-Conversational system for querying and visualizing ARGO oceanographic float data in natural language.
-
-**Tech:** JavaScript · Python · SQL · Google Cloud  
-[View repository](https://github.com/shritej-koneru/FloatChatSAHE)
+| Project | What I built | Tech |
+| :--- | :--- | :--- |
+| [**EquiAlert**](https://github.com/shritej-koneru/EquiAlert) | Indian stock market dashboard with watchlists, news, and AI insights | React, TypeScript, Node.js, Python |
+| [**FloatChatSAHE**](https://github.com/shritej-koneru/FloatChatSAHE) | Conversational exploration of ARGO oceanographic data | Python, JavaScript, SQL, Google Cloud |
+| [**Stocks-API**](https://github.com/shritej-koneru/Stocks-API) | Market-data API with technical indicators and source fallback | Python, FastAPI, SQLite / PostgreSQL |
+| [**Multi-File-Conversion**](https://github.com/shritej-koneru/Multi-File-Conversion) | Batch conversion of documents, images, audio, and video | TypeScript, React, Docker |
+| [**ProjectNOVA**](https://github.com/shritej-koneru/ProjectNOVA) | Laptop optimization service site with immersive motion and 3D effects | Next.js, Tailwind CSS, Framer Motion, Three.js |
 
 </details>
 
 <details>
-<summary><b>Stocks-API</b> · Market data microservice</summary>
+<summary><b>🧪 More projects worth exploring</b></summary>
 
-FastAPI service for real-time quotes, historical market data, and technical indicators, with dual-source fallback.
-
-**Tech:** Python · FastAPI · SQLite / PostgreSQL  
-[View repository](https://github.com/shritej-koneru/Stocks-API)
+- 🤖 [**FRIDAY — Personal AI Voice Assistant**](https://github.com/shritej-koneru/FRIDAY-Personal-Assistant) — Windows voice assistant with pluggable AI providers
+- 🖥️ [**RetroOS**](https://github.com/shritej-koneru/retroos) — Retro browser operating system
+- 📅 [**Event Management Hub**](https://github.com/shritej-koneru/Event-Management-Hub-EPICS) — Campus event coordination application
+- 💸 [**Expense Tracker App**](https://github.com/shritej-koneru/Expense-Tracker-App) — Personal finance and spending analytics
 
 </details>
+
+### 🌟 Experience & leadership
+
+| Role | Community / Organization | Since |
+| :--- | :--- | :--- |
+| 🎨 **Web Designer** | AWS Student Builder Group, Siddhartha University | Jun 2026 |
+| 💡 **Campus Innovator** | SPARC Foundation | Jan 2026 |
+| 🚀 **Ideate Station Executive** | TechnoVate-SAHE | Sep 2025 |
 
 <details>
-<summary><b>Multi-File-Conversion</b> · Universal file converter</summary>
+<summary><b>💬 What I do in these roles</b></summary>
 
-Batch conversion across documents, images, audio, and video, with format suggestions and instant downloads.
-
-**Tech:** TypeScript · React · Docker · Shell  
-[View repository](https://github.com/shritej-koneru/Multi-File-Conversion)
-
-</details>
-
-<details>
-<summary><b>ProjectNOVA</b> · Laptop optimization service website</summary>
-
-Student-focused laptop optimization and virtualization website with immersive 3D visuals and motion-driven storytelling.
-
-**Tech:** Next.js · TypeScript · Tailwind CSS · Framer Motion · Three.js  
-[View repository](https://github.com/shritej-koneru/ProjectNOVA)
+- **AWS Student Builder Group:** Build responsive web experiences and contribute to cloud-focused community content.
+- **SPARC Foundation:** Work on student-focused technical initiatives and innovation.
+- **TechnoVate-SAHE:** Help shape ideas into actionable proposals and support campus innovation activities.
 
 </details>
 
-<details>
-<summary><b>Other projects</b> · AI assistant, Android apps & browser experiments</summary>
-
-- [FRIDAY – Personal AI Voice Assistant](https://github.com/shritej-koneru/FRIDAY-Personal-Assistant) — Python-based Windows voice assistant
-- [WebOS / RetroOS](https://github.com/shritej-koneru/retroos) — Retro-inspired browser operating system
-- [Event Management Hub](https://github.com/shritej-koneru/Event-Management-Hub-EPICS) — Campus event management Android app
-- [Expense Tracker App](https://github.com/shritej-koneru/Expense-Tracker-App) — Personal finance tracking project
-
-</details>
-
-### GitHub stats
+### 📊 My GitHub universe
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shritej-koneru&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shritej-koneru&amp;show_icons=true&amp;hide_border=true&amp;theme=default" />
-  <img alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=shritej-koneru&amp;show_icons=true&amp;hide_border=true&amp;theme=default" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shritej-koneru&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shritej-koneru&amp;show_icons=true&amp;theme=default&amp;hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shritej-koneru&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shritej-koneru&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shritej-koneru&amp;layout=compact&amp;theme=default&amp;hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shritej-koneru&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most used languages" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shritej-koneru&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shritej-koneru&amp;layout=compact&amp;hide_border=true&amp;theme=default" />
-  <img alt="Most used repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shritej-koneru&amp;layout=compact&amp;hide_border=true&amp;theme=default" />
-</picture>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shritej-koneru&bg_color=0d1117&color=38bdf8&line=818cf8&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
-### Contribution activity
+### 🐍 Watch my contributions come alive
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shritej-koneru/shritej-koneru/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shritej-koneru/shritej-koneru/output/github-snake.svg" />
-  <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/shritej-koneru/shritej-koneru/output/github-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/shritej-koneru/shritej-koneru/output/github-snake.svg" alt="Animated contribution snake" />
 </picture>
+
+<sub>Generated automatically by GitHub Actions after its first successful run.</sub>
 
 </div>
 
 <details>
-<summary><b>Certifications & learning</b></summary>
+<summary><b>🏅 Certifications & continuous learning</b></summary>
 
-- **Programming in Java** — NPTEL / IIT Kharagpur (Elite, 2025)
-- **Cisco Networking Academy** — C++ Essentials 1 & 2, Python Essentials 1 & 2, JavaScript Essentials 1, HTML Essentials, CSS Essentials, Linux Essentials
-- **Android development** — Google Android Developer and Android Developer Virtual Internship (EduSkills / AICTE)
-- **Other learning** — Gemini AI workshop, quantum fundamentals, full-stack development workshop
+- **NPTEL / IIT Kharagpur:** Programming in Java — Elite certification
+- **Cisco Networking Academy:** C++ Essentials 1 & 2, Python Essentials 1 & 2, JavaScript Essentials 1, HTML Essentials, CSS Essentials, Linux Essentials
+- **EduSkills / AICTE:** Google Android Developer and Android Developer Virtual Internship
+- **Additional learning:** Gemini AI, quantum fundamentals, full-stack development and game development workshops
 
-Certificate files are maintained in this repository's existing certificates folder.
+My existing certificates remain in this repository's certificates folder.
 
 </details>
 
@@ -162,8 +153,13 @@ Certificate files are maintained in this repository's existing certificates fold
 
 <div align="center">
 
-**Open to collaboration and interesting projects.**
+### 🤝 Let's build something awesome
 
-[Portfolio](https://bit.ly/shritej-koneru) · [LinkedIn](https://linkedin.com/in/shritej-koneru-560111324) · [GitHub](https://github.com/shritej-koneru)
+*Have an interesting idea, project, or collaboration? I'd love to hear about it.*
+
+<a href="https://bit.ly/shritej-koneru"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" /></a>
+<a href="https://linkedin.com/in/shritej-koneru-560111324"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=110&section=footer" alt="Decorative gradient footer" />
 
 </div>
