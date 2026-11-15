@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://bit.ly/shritej-koneru"><img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://portfolio-seven-psi-l2qf199nrn.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/shritej-koneru-560111324"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/shritej-koneru"><img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
@@ -157,7 +157,7 @@ My existing certificates remain in this repository's certificates folder.
 
 *Have an interesting idea, project, or collaboration? I'd love to hear about it.*
 
-<a href="https://bit.ly/shritej-koneru"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" /></a>
+<a href="https://portfolio-seven-psi-l2qf199nrn.vercel.app/"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" /></a>
 <a href="https://linkedin.com/in/shritej-koneru-560111324"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=110&section=footer" alt="Decorative gradient footer" />
