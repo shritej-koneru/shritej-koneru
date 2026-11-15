@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=200&section=header&text=Shritej%20Koneru&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Mobile%20App%20Enthusiast&descAlignY=59&descSize=17" alt="Shritej Koneru — developer profile" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=200&section=header&text=Shritej%20Koneru&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Mobile%20App%20Enthusiast&descAlignY=59&descSize=17" alt="Shritej Koneru — developer profile" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Hey+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;I+build+web+apps%2C+AI+tools+%26+Android+apps;Turning+ideas+into+working+products+%E2%9C%A8;Code.+Create.+Learn.+Repeat." alt="Animated developer introduction" /></a>
 
